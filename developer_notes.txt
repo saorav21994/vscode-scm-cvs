@@ -11,3 +11,5 @@ tsc: build or tsc: watch
 CVS
 To test the extension, a command line CVS is needed
 brew install cvs
+
+# There was no way to contact you. Since this is the only way for CVS integration in VSCODE (which i desperately need :( ), please kindly explain hwo to integrate your CVS extenesion to vscode in ubuntu. Mail :: saha.saorav@gmail.com
